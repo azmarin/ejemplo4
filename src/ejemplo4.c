@@ -101,7 +101,7 @@ static int32_t fd_out;
  *
  * \remarks This function never returns. Return value is only to avoid compiler
  *          warnings or errors.
- */
+ */ariel
 int main(void)
 {
    /* Starts the operating system in the Application Mode 1 */
